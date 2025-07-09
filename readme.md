@@ -21,7 +21,13 @@ I’m really into electromagnetics, programming, and almost all things math.
     - Software Development (2024)
 
 ---
-
+## Skills  
+- Python, website design, embedded systems, circuit design
+- Fusion 360 (modeling & simulations), EasyEDA Pro, LTSpice, FEMM (simulations)
+- Data analysis and optimization
+- Linux Set-up & operation (Debain & Arch)
+  
+---
 ## Goals
 
 - Planning to study a Bachelor of Science (Physics) and Bachelor of Engineering (Electrical)  
