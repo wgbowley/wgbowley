@@ -6,7 +6,7 @@ I’m really into electromagnetics, programming, and almost all things math.
 ## About Me
 
 - Working on an optimizer for linear motors and building my own linear motor for big-format 3D printers  
-- Big fan of open-source hardware and software—sharing is caring  
+- Big fan of open-source hardware and software 
 - Love rock climbing and swimming  
 - Huge fan of cool stories—like the movie *Arrival* and the book series *Foundation* by Isaac Asimov  
 - I sketch designs and sometimes go on lucid dreaming adventures when I’m not coding or climbing  
