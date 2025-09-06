@@ -36,11 +36,12 @@ I’m really into electromagnetics, programming, and almost all things math.
 
 ---
 
-## Let’s Talk
+## Reach out
 
 Hit me up if you wanna chat about projects, ask questions, or just say hi!  
-📧 Email: [wgrantbowley@gmail.com](mailto:wgrantbowley@gmail.com)  
-▶️ YouTube: [WPsyop](https://www.youtube.com/@WPsyop)  
-💬 Discord: @psyop
+Email: [wgrantbowley@gmail.com](mailto:wgrantbowley@gmail.com)  
+YouTube: [WPsyop](https://www.youtube.com/@WPsyop) 
+Spotify: [William Bowley](https://open.spotify.com/user/31fpwch4ptm26fl3mk3tav6st4mu?si=36274017b3b94c7e)
+Discord: @psyop
 
 ---
