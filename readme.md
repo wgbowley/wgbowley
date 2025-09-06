@@ -23,8 +23,8 @@ I’m really into electromagnetics, programming, and almost all things math.
 ---
 ## Skills  
 - Python, website design, embedded systems, circuit design
-- Fusion 360 (modeling & simulations), EasyEDA Pro, LTSpice, FEMM (simulations)
-- Data analysis and optimization
+- Fusion 360 and inventor (modeling & simulations), EasyEDA Pro, LTSpice, FEMM (simulations)
+- Data analysis and optimization (DEAP)
 - Linux Set-up & operation (Debain & Arch)
   
 ---
