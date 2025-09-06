@@ -36,7 +36,7 @@ I’m really into electromagnetics, programming, and almost all things math.
 
 ---
 
-## Let’s Connect
+## Let’s Talk
 
 Hit me up if you wanna chat about projects, ask questions, or just say hi!  
 📧 Email: [wgrantbowley@gmail.com](mailto:wgrantbowley@gmail.com)  
