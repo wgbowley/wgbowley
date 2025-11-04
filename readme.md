@@ -10,27 +10,18 @@ I’m really into electromagnetics, programming, and almost all things math.
 - Love rock climbing and swimming  
 - Fan of cool stories - like the movie *Arrival* and the book series *Foundation* by Isaac Asimov  
 - I sketch designs and sometimes lucid dream when I’m not coding or climbing  
-- Currently doing VCE, focusing on:  
-  - **Unit 3/4:**  
-    - Physics  
-    - Chemistry  
-    - Specialist Maths  
-    - Methods Maths  
-    - English Language  
-  - **Finished:**  
-    - Software Development (2024)
 
 ---
 ## Skills  
-- Python, website design, embedded systems, circuit design
+- Python, website design, embedded systems, circuit design, computational geometry & physics
 - Fusion 360 and inventor (modeling & simulations), EasyEDA Pro, LTSpice, FEMM (simulations)
-- Data analysis and optimization (DEAP)
-- Linux Set-up & operation (Debain & Arch)
+- Data analysis and optimization (DEAP, self-implementations, etc)
+- Linux set-up & operation (Debain & Arch)
   
 ---
 ## Goals
 
-- Planning to study a Bachelor of Science (Physics) and Bachelor of Engineering (Electrical)  
+- Planning to study a Bachelor of Engineering or Bachelor of applied mathematics 
 - Want to dive into research and development after uni  
 - Looking for an internship once high school wraps up this November
 
