@@ -1,35 +1,35 @@
-# Hey, I’m William  
-I’m really into electromagnetics, programming, and almost all things math.
-
----
 
 ## About Me
 
-- Working on an optimizer for linear motors and building my own linear motor for large-format 3D printers  
-- Big fan of open-source hardware and software 
-- Love rock climbing and swimming  
-- Fan of cool stories - like the movie *Arrival* and the book series *Foundation* by Isaac Asimov  
-- I sketch designs and sometimes lucid dream when I’m not coding or climbing  
+- Building a physics-adapter layer for multiple FEM solvers to tackle optimization in multiphysics systems
+- Translating the beautiful proofs from Computational Geometry, de Berg et al., into code
+- Designing a low-cost, high-speed linear motor for large- and medium-format 3D printers
+- Writing a novella about a cynical technophobic religion and the responsible usage of advanced technology
+- Acting in short- to feature-length film projects by Thomas Carr and Xavier Moar (Two Houseman Pictures).
+- Big fan of good stories like the movie *Arrival* and the book series *Foundation* by Isaac Asimov  
+- I love sketching ideas, lucid dreaming, bouldering, and swimming
 
 ---
-## Skills  
-- Python, website design, embedded systems, circuit design, computational geometry & physics
-- Fusion 360 and inventor (modeling & simulations), EasyEDA Pro, LTSpice, FEMM (simulations)
-- Data analysis and optimization (DEAP, self-implementations, etc)
-- Linux set-up & operation (Debain & Arch)
-  
+
+## Workflows
+- Python, dynamic web (Expo + React), and static web (HTML/CSS/JS)
+- Embedded systems (STM, ESP), digital circuit design, computational geometry, and physics
+- Fusion 360 & Inventor (CAD + simulation), EasyEDA, LTSpice, FEMM
+- Data analysis (Matplotlib, Dash) and optimization (DEAP, Bayesian methods, custom implementations)
+- Linux setup & operation (Debian + Arch)
+
 ---
+
 ## Goals
 
-- Planning to study a Bachelor of Engineering or Bachelor of applied mathematics 
-- Want to dive into research and development after uni  
-- Looking for an internship once high school wraps up this November
-
+- Planning to study either a Bachelor of Engineering or Applied Mathematics in 2026
+- Seeking an internship once high school wraps up this November (ANCA Motion please notice me)
+- Aiming to dive into research and development under my own company during or after university
 ---
 
 ## Reach out
 
-Hit me up if you wanna chat about projects, ask questions, or just say hi!  
+If you want to chat about projects, ask questions, or just yap,<br>
 Email: [wgrantbowley@gmail.com](mailto:wgrantbowley@gmail.com)<br>
 YouTube: [WPsyop](https://www.youtube.com/@WPsyop)<br>
 Discord: @psyop
