@@ -4,8 +4,7 @@
 - Building a physics-adapter layer for multiple FEM solvers to tackle optimization in multiphysics systems
 - Translating the beautiful proofs from Computational Geometry, de Berg et al., into code
 - Designing a low-cost, high-speed linear motor for large- and medium-format 3D printers
-- Writing a novella about a cynical technophobic religion and the responsible usage of advanced technology
-- Acting in short- to feature-length film projects by Thomas Carr and Xavier Moar (Two Houseman Pictures).
+- Writing a novella about a society with limited access to resources but modern theoretical knowledge
 - Big fan of good stories like the movie *Arrival* and the book series *Foundation* by Isaac Asimov  
 - I love sketching ideas, lucid dreaming, bouldering, and swimming
 
