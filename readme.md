@@ -12,8 +12,8 @@
 
 ## Workflows
 - Python, dynamic web (Expo + React), and static web (HTML/CSS/JS)
-- Embedded systems (STM, ESP), digital circuit design, computational geometry, and physics
-- Fusion 360 & Inventor (CAD + simulation), EasyEDA, LTSpice, FEMM
+- Microcontrollers (STM, ESP, ATmega), digital/analog circuit design, computational geometry, and physics
+- Fusion 360 & Inventor (CAD + simulation), EasyEDA, LTSpice, FEMM, pySpice, Inkscape
 - Data analysis (Matplotlib, Dash) and optimization (DEAP, Bayesian methods, custom implementations)
 - Linux setup & operation (Debian + Arch)
 
@@ -21,8 +21,8 @@
 
 ## Goals
 
-- Planning to study either a Bachelor of Engineering or Applied Mathematics in 2026
-- Seeking an internship once high school wraps up this November (ANCA Motion please notice me)
+- Beginning a Bachelor of Engineering at RMIT on the 2nd of March (which happens to be my birthday! 🎂)
+- Seeking an internship once high school wraps up this November (Target: ANCA Motion or CSIRO)
 - Aiming to dive into research and development under my own company during or after university
 ---
 
@@ -30,7 +30,6 @@
 
 If you want to chat about projects, ask questions, or just yap,<br>
 Email: [wgrantbowley@gmail.com](mailto:wgrantbowley@gmail.com)<br>
-YouTube: [WPsyop](https://www.youtube.com/@WPsyop)<br>
-Discord: @psyop
+YouTube: [wgbowley](https://www.youtube.com/@wgbowley)<br>
 
 ---
