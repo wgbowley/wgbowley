@@ -31,7 +31,9 @@
 - I love sketching ideas, lucid dreaming, bouldering, walking, and swimming
 - My father (1951–2025) got me started with hand tools and power tools from age 5. I picked up the technical side independently from there
 - I've been using CAD since 2018 and programming since 2020. In 2022 I built my first 3D printer for my 15th birthday
+- My first programming attempt was writing a convolutional neural network (CNN) in Python. I only got to 81px (9×9) but I was 13 and didn't know what a matrix was.
 - I swam at state 4 times between 2023–2024 across 100bk, 200bk, and lastly 50bk/50fr in relays (thanks guys, it was fun)
+I am on the RMIT motorsport team under the powertrain division, even though I don't watch motorsports lol (I think it's an interesting problem domain)
 - Big fan of good stories like the movie *Arrival* and the book series *Foundation* by Isaac Asimov
 - If you want to see my movie reviews, check my [letterboxd](https://letterboxd.com/william_bowley)
 - I once acted in a short film for my good friend Thomas Carr. He said my "career" outlasted its welcome, even though it was one movie
@@ -42,7 +44,7 @@
 <details>
 <summary><b>Workflows</b></summary>
 
-- Python, dynamic web (Expo + React), and static web (HTML/CSS/JS)
+- Python, MATLAB, C++ (still learning for pybind11+), dynamic web (Expo + React), and static web (HTML/CSS/JS)
 - Microcontrollers (STM, ESP, ATmega), digital/analog circuit design, computational geometry, and physics
 - Fusion 360 & Inventor (CAD + simulation), EasyEDA (migrating to KiCad), PSIM, LTspice, FEMM, PySpice, Inkscape
 - Data analysis (Matplotlib, Dash) and optimization (DEAP, Bayesian methods, custom implementations)
