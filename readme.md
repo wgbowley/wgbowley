@@ -65,10 +65,6 @@
 - Big fan of good stories like the movie *Arrival* and the book series *Foundation* by Isaac Asimov
 - If you want to see my movie reviews, check my [letterboxd](https://letterboxd.com/william_bowley)
 - I once acted in a short film for my good friend Thomas Carr. He said my "career" outlasted its welcome, even though it was one movie
-- Writing a novella about a society with limited access to resources but modern theoretical knowledge (slowly)
-
-<br>
-<p><strong>Note:</strong> Sorry for how visually noisy this section is. I just thought, if you wanted to know, I should give the whole note, not a fraction. ¯\\\_(ツ)_/¯</p>
 
 </details>
 
