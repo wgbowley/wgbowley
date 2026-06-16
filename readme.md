@@ -9,7 +9,7 @@
 | **pyFEA** | Building an intermediate representation system for multi-physics problems that use either ROM and/or FEM. |
 | **ROM EM** | Building a ROM for ferromagnetic and dipole interactions using virtual work ($dU/dz$ or $dU/d	heta$, etc.). |
 | **OpenLSM** | Designing a low-cost, potentially high-accuracy linear motor for large- and medium-format 3D printers. |
-| **Pillarator** | Zero-External Power Pill System built around an axial shake generator for the hercules challenge | 
+| **IsoPod** | Zero-External Power Pill System built around an axial shake generator for the hercules challenge | 
 | **Comp-Geo** | Translating the beautiful proofs from *Computational Geometry: Algorithms and Applications* into code for future EM work. |
 
 ## More
