@@ -36,7 +36,7 @@
 | :--- | :--- |
 | **Languages** | Python, MATLAB, C++ (learning pybind11+), Expo, React, HTML/CSS/JS |
 | **Hardware/Firmware** | STM, ESP, ATmega, digital/analog circuit design |
-| **CAD & Simulation** | Fusion 360, Inventor, KiCad (migrating from EasyEDA), PSIM, LTspice, FEMM, PySpice |
+| **CAD & Simulation** | Fusion 360, Inventor, KiCad (migrating from EasyEDA), Altium Designer, PSIM, LTspice, FEMM, PySpice |
 | **Math & Data** | Computational geometry, Matplotlib, Dash, DEAP, Bayesian methods |
 | **OS** | Widnows, Linux (Debian + Arch) |
 
