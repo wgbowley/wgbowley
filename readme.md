@@ -6,6 +6,7 @@
 
 | Project | Description |
 | :--- | :--- |
+| **picounits** | A runtime dimensional environment and unit-aware DSL for scientific computing in Python |
 | **pyFEA** | Building an intermediate representation system for multi-physics problems that use either ROM and/or FEM. |
 | **ROM EM** | Building a ROM for ferromagnetic and dipole interactions using virtual work ($dU/dz$ or $dU/d	heta$, etc.). |
 | **OpenLSM** | Designing a low-cost, potentially high-accuracy linear motor for large- and medium-format 3D printers. |
