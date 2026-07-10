@@ -1,0 +1,88 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+\usepackage{titlesec}
+
+% Better section formatting
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+% Header
+\begin{center}
+    {\LARGE \textbf{William Bowley}} \\[4pt]
+    {\large Computational \& Electrical Engineering Student @ RMIT University} \\[2pt]
+    Melbourne, VIC \quad $\cdot$ \quad (+61) 0422 413 608 \quad $\cdot$ \quad wgrantbowley@gmail.com \\[2pt]
+    \href{https://github.com/wgbowley}{github.com/wgbowley} \quad $\cdot$ \quad 
+    \href{https://linkedin.com/in/wgbowley}{linkedin.com/in/wgbowley/}
+\end{center}
+
+\section*{Summary}
+Computational and Electrical Engineering student specializing in electromagnetic systems, multi-physics simulation, and numerical tool development. 
+Experienced developing open-source engineering software, simulation frameworks, and hardware prototypes for motor applications.
+
+\section*{Skills}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+    \item \textbf{Languages:} Python, C/C++, JS, MATLAB
+    \item \textbf{Simulation \& Tools:} FEMM, LTspice, Fusion 360, Inventor, Altium, KiCad, PSIM (Basics)
+    \item \textbf{Hardware:} STM32, PCB Design, Motor Design/Control, RS-485/CAN, Sensor Integration
+    \item \textbf{Other:} Git, Linux, LaTeX/Markdown, FastAPI/Flask, React (basics)
+\end{itemize}
+
+\section*{Projects}
+
+\noindent\textbf{\href{https://github.com/wgbowley/openLSM}{OpenLSM}} \hfill \textit{Aug 2025 -- Present} \\
+Electrical Lead \& Developer — Open Source Linear Synchronous Motor Project
+\begin{itemize}[leftmargin=*, noitemsep]
+    \item Developing transient multi-physics simulation model (electromagnetic, thermal, mechanical) for linear motor design and optimization.
+    \item Developed a parametric motor geometry pipeline with NSGA-III multi-objective optimization capable of evaluating over 1,000 candidate designs.
+    \item Designed, built, and validated a custom planar linear motor prototype with a three-phase bridge driver, demonstrating closed-loop linear motion.
+\end{itemize}
+
+\noindent\textbf{\href{https://github.com/wgbowley/PyFEA}{PyFEA}} \hfill \textit{Dec 2024 -- Present} \\
+Project Lead — Multi-Physics Solver Framework
+\begin{itemize}[leftmargin=*, noitemsep]
+    \item Developing a multi-physics solver framework with an intermediate representation linking finite element and lumped parameter models through modular solver adaptors.
+\end{itemize}
+
+\noindent\textbf{\href{https://github.com/wgbowley/PicoUnits}{PicoUnits}} \hfill \textit{Jan 2026 -- Present} \\
+Project Lead — Dimensional Constraint System for Python
+\begin{itemize}[leftmargin=*, noitemsep]
+    \item Created PyPI package for runtime dimensional analysis and unit-aware engineering computations.
+    \item Developed a domain-specific language enabling unit-aware engineering configuration files and runtime dimensional validation.
+\end{itemize}
+
+\section*{Experience}
+
+\noindent\textbf{Powertrain Engineer} \hfill \textit{Apr 2026 -- Present} \\
+RMIT Motorsport — Formula SAE Team (\href{https://github.com/rmit-wgbowley/dyno-boards}{dyno-boards})
+\begin{itemize}[leftmargin=*, noitemsep]
+    \item Simulating Permanent Magnet Synchronous Motors (PMSMs) in PSIM for drivetrain analysis.
+    \item Designed isolated dyno communication electronics and supported high-voltage system integration.
+    \item Developed analysis framework for active vs passive precharge systems.
+\end{itemize}
+
+\noindent\textbf{Hercules Challenge — IsoPod Project} \hfill \textit{Mar 2026 -- Jul 2026} \\
+RMIT University (\href{https://github.com/rmit-wgbowley/Isopod}{Isopod})
+\begin{itemize}[leftmargin=*, noitemsep]
+    \item Co-designed assistive axial shake generator for medication reminder system (0.45W @ 8.8Hz).
+    \item Utilized custom FEA models for electromagnetic design with accuracy to within 12--22\% of measured results.
+    \item Worked in multidisciplinary team. Project reached finals and received Commendation Award.
+\end{itemize}
+
+\section*{Education}
+
+\noindent\textbf{Bachelor of Engineering (Honours) — Electrical} \hfill \textit{Mar 2026 -- Nov 2029} \\
+RMIT University, Melbourne
+
+\noindent\textbf{Victorian Certificate of Education (VCE)} \hfill \textit{2025} \\
+Auburn High School
+
+\section*{Additional}
+\begin{itemize}[leftmargin=*, noitemsep]
+    \item Competitive swimmer — 4 $\times$ state qualifier and 7 $\times$ regional qualifier in 50 m, 100 m, and 200 m Backstroke, and 200m Freestyle Relay
+    \item Community volunteering — Supported primary school fundraising events through Bunnings sausage sizzles and constructed approximately 12 garden beds for Camberwell South Primary School.
+\end{itemize}
+\end{document}
