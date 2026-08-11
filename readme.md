@@ -17,17 +17,6 @@ Computational and Electrical Engineering student at RMIT University, specializin
 | [PicoUnits](https://github.com/wgbowley/PicoUnits) | A Dimensional Constraint System for Computational Engineering. |
 | [PyFEA](https://github.com/wgbowley/PyFEA) | An intermediate representation system for multi-physics problems using solver adaptors. |
 
-
----
-
-
-| Category | Technologies |
-|:---|:---|
-| **Languages** | Python, C, C++, MATLAB |
-| **Hardware & Firmware** | Electromagnetic Design, STM32, Embedded Systems, Digital and Analog Circuit Design |
-| **CAD & Simulation** | Fusion 360, Inventor, KiCad, Altium Designer, LTspice, FEMM |
-| **Tools & Workflow** | Git, LaTeX, Linux (Arch + Debian), VS Code |
-
 ----
 
 *For a full list of projects, see my [repositories](https://github.com/wgbowley?tab=repositories).*<br> 
