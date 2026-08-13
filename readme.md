@@ -14,7 +14,7 @@ Computational and Electrical Engineering student at RMIT University, specializin
 | Active Projects | Description |
 |:---|:---|
 | [OpenLSM](https://github.com/wgbowley/openLSM) | A low-cost tubular linear synchronous motor for Cartesian motion systems using custom FEM and ROM tooling. |
-| [PicoUnits](https://github.com/wgbowley/PicoUnits) | A Dimensional Constraint System for Computational Engineering. |
+| [PicoUnits](https://github.com/wgbowley/PicoUnits) | A runtime type system for numerical quantities. |
 | [PyFEA](https://github.com/wgbowley/PyFEA) | An intermediate representation system for multi-physics problems using solver adaptors. |
 
 ----
