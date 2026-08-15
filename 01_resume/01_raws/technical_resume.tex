@@ -1,0 +1,121 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+% Better section formatting
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+% Fix spacing after section titles
+\titlespacing{\section}{0pt}{12pt}{6pt}
+
+% Fix hyperref formatting
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue,
+}
+
+\begin{document}
+
+% Header
+\begin{center}
+{\LARGE \textbf{William Bowley}} \\[4pt]
+{\large Computational \& Electrical Engineering Student, RMIT University} \\[2pt]
+Melbourne, VIC \quad $\cdot$ \quad (+61) 0422 413 608 \quad $\cdot$ \quad \href{mailto:wgrantbowley@gmail.com}{wgrantbowley@gmail.com} \\[2pt]
+\href{https://github.com/wgbowley}{github.com/wgbowley} \quad $\cdot$ \quad
+\href{https://linkedin.com/in/wgbowley}{linkedin.com/in/wgbowley/}
+\end{center}
+
+\section*{Summary}
+\noindent Electrical Engineering student specializing in electromagnetic systems, power electronics, 
+and numerical tool development. Experienced in developing power electronics and sensor PCBs, 
+electric motors and actuators, simulation models, and engineering software.
+
+\section*{Technical Skills}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+\item \textbf{Programming:} Python, C/C++, JavaScript, MATLAB
+\item \textbf{Simulation \& CAD:} FEMM, LTspice, Fusion 360, Inventor, Altium, KiCad, PSIM (Basics)
+\item \textbf{Embedded \& Hardware:} STM32, PCB Design, Motor Design/Control, CAN, Sensor Integration
+\item \textbf{Software:} Git, Linux, LaTeX/Markdown, FastAPI/Flask, React (Basics)
+\end{itemize}
+
+\section*{Projects}
+
+\noindent\textbf{\href{https://github.com/wgbowley/openLSM}{OpenLSM}} \hfill \textit{Aug 2025 -- Present} \\
+Electrical Lead \& Developer --- Open Source Linear Synchronous Motor Project
+\begin{itemize}[leftmargin=*, noitemsep, topsep=2pt]
+\item Designed, built and validated a planar linear synchronous motor prototype with a three-phase bridge driver, demonstrating closed-loop linear motion.
+\item Designed, built and validated a data collection board driven by an STM32 with 8 NTC thermistors, 10 $\mu$m encoder and 3-axis SPI accelerometer over RS-485.
+\item Designed and built a reduced-order model using the Biot--Savart law for coil slots and an axisymmetric approximation for magnets under FOC control of linear motors.
+\item Designed an STM32-driven 96 V, 25 A three-phase motor driver with current sensing and galvanic isolation, driven by a custom FOC implementation.
+\item Designed a tubular linear synchronous motor with passive cooling and custom CNC parts with the aim of testing the completed system by December 2026.
+\end{itemize}
+
+\noindent\textbf{Bowley Systems} \hfill \textit{Dec 2024 -- Present} \\
+Open-source computational tools for physical systems
+
+\begin{itemize}[leftmargin=*, noitemsep, topsep=2pt]
+\item[] \textbf{\href{https://github.com/Bowley-Systems/PyFEA}{PyFEA}} --- Project Lead
+    \begin{itemize}[leftmargin=*, noitemsep, topsep=2pt]
+        \item Developed an intermediate representation system for multi-physics problems using solver adaptors to interface with different numerical solvers.
+        \item Implemented the UnitValues domain-specific language, with \texttt{.uiv} and \texttt{.ut} extensions for typed numerical quantities.
+        \item Wrote a language specification for UnitValues and published a Visual Studio Code extension for syntax highlighting.
+        \item Alpha development available on PyPI under PyFEA with plans for public launch mid December 2026.
+    \end{itemize}
+
+\item[] \textbf{\href{https://github.com/wgbowley/PicoUnits}{PicoUnits}} --- Project Lead
+    \begin{itemize}[leftmargin=*, noitemsep, topsep=2pt]
+        \item Developed, built and tested a runtime type system for numerical quantities.
+        \item Built automated tests covering 70\% of the UnitValues parser and numerical core.
+        \item Achieved a 96\% A rating for branching complexity across the type system and parser.
+        \item Version 1.10 is available on PyPI under PicoUnits.
+    \end{itemize}
+\end{itemize}
+
+\newpage
+
+\section*{Experience}
+
+\noindent\textbf{Electrics Engineer} \hfill \textit{Aug 2026 -- Present} \\
+RMIT Motorsport --- Elective (\href{https://github.com/rmit-wgbowley/LV-Isolated-DC-DC}{LV-Isolated-DC-DC})
+\begin{itemize}[leftmargin=*, noitemsep, topsep=2pt]
+\item Defined the implementation scope and system architecture, including converter topology selection.
+\item Developed and validated a First Harmonic Approximation (FHA) model for LLC resonant converters.
+\item Designing a 400 V to 12 V, 20 A LLC resonant converter and developing an EMI testing methodology with consideration for electrical safety.
+\end{itemize}
+
+\noindent\textbf{Powertrain Engineer} \hfill \textit{Apr 2026 -- Aug 2026} \\
+RMIT Motorsport --- Formula SAE Team (\href{https://github.com/rmit-wgbowley/dyno-boards}{dyno-boards})
+\begin{itemize}[leftmargin=*, noitemsep, topsep=2pt]
+\item Simulated Permanent Magnet Synchronous Motors (PMSMs) in PSIM for drivetrain analysis.
+\item Designed isolated dyno communication electronics and supported high-voltage system integration.
+\item Developed an analysis framework for active vs. passive precharge systems.
+\end{itemize}
+
+
+\noindent\textbf{Hercules Challenge --- IsoPod Project} \hfill \textit{Mar 2026 -- Jul 2026} \\
+RMIT University --- Finalist, Commendation Award (\href{https://github.com/rmit-wgbowley/Isopod}{Isopod})
+\begin{itemize}[leftmargin=*, noitemsep, topsep=2pt]
+\item Co-designed an assistive axial shake generator for a medication reminder system (0.45 W, 8.8 Hz).
+\item Utilized PyFEA for electromagnetic design, achieving accuracy within 12--22\% of measured results.
+\item Worked in a multidisciplinary team. Project reached the finals and received a Commendation Award.
+\end{itemize}
+
+\section*{Education}
+
+\noindent\textbf{Bachelor of Engineering (Honours) --- Electrical} \hfill \textit{Mar 2026 -- Nov 2029} \\
+RMIT University, Melbourne
+
+\noindent\textbf{Victorian Certificate of Education (VCE)} \hfill \textit{2025} \\
+Auburn High School \\
+Relevant studies: Mathematical Methods and Specialist, Physics, and Software Development
+
+\section*{Additional}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=2pt]
+\item Competitive swimmer --- 4 $\times$ state qualifier and 7 $\times$ regional qualifier in 50 m, 100 m, and 200 m Backstroke, and 200 m Freestyle Relay.
+\item Community volunteering --- Supported primary school fundraising events through Bunnings sausage sizzles and constructed approximately 12 garden beds for Camberwell South Primary School.
+\end{itemize}
+
+\end{document}

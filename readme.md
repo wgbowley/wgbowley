@@ -21,4 +21,4 @@ Computational and Electrical Engineering student at RMIT University, specializin
 
 *For a full list of projects, see my [repositories](https://github.com/wgbowley?tab=repositories).*<br> 
 *University projects: [rmit-wgbowley](https://github.com/rmit-wgbowley).*<br>
-*View my [resume](01_resume/resume.pdf).*  
+*View my [Technical Resume](01_resume/technical_resume.pdf).*  
