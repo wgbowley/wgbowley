@@ -4,7 +4,9 @@
   <em>OpenLSM Prototype Beta revision 2: Radial heat-sink design study (aluminum 6061, eddy current analysis)</em>
 </p>
 
-Computational and Electrical Engineering student at RMIT University, specializing in electromagnetic systems, multi-physics simulation, and numerical tool development.
+Computational systems engineer with a current focus on electromagnetic systems. Running `Bowley Systems` as an independent 
+computational toolmaker and systems research group. I study electrical engineering at RMIT University and 
+am a member of the electric motorsport team.
 
 ![Status](https://img.shields.io/badge/Focus-R%26D-white?style=flat-square&logo=react&logoColor=87CEEB)
 ![Tools](https://img.shields.io/badge/Building-Core%20Frameworks-87CEEB?style=flat-square&logo=buildkite&logoColor=white)
@@ -14,11 +16,14 @@ Computational and Electrical Engineering student at RMIT University, specializin
 | Active Projects | Description |
 |:---|:---|
 | [OpenLSM](https://github.com/wgbowley/openLSM) | A low-cost tubular linear synchronous motor for Cartesian motion systems using custom FEM and ROM tooling. |
-| [PicoUnits](https://github.com/wgbowley/PicoUnits) | A runtime type system for numerical quantities. |
 | [PyFEA](https://github.com/wgbowley/PyFEA) | An intermediate representation system for multi-physics problems using solver adaptors. |
+| [PicoUnits](https://github.com/wgbowley/PicoUnits) | A runtime type system for numerical quantities. |
+| [LV-Isolated-DC-DC](https://github.com/rmit-wgbowley/LV-Isolated-DC-DC) | An isolated 600 V to 12 V DC/DC converter for FSAE low-voltage system. |
 
 ----
 
-*For a full list of projects, see my [repositories](https://github.com/wgbowley?tab=repositories).*<br> 
+*For a full list of projects, see my [project list](02_project_list\projects.pdf).*<br> 
 *University projects: [rmit-wgbowley](https://github.com/rmit-wgbowley).*<br>
-*View my [Technical Resume](01_resume/technical_resume.pdf).*  
+*View my [technical resume](01_resume/technical_resume.pdf).*  
+
+---

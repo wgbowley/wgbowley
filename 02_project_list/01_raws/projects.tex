@@ -1,0 +1,64 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{booktabs}
+
+% Better section formatting
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+% Fix spacing after section titles
+\titlespacing{\section}{0pt}{12pt}{6pt}
+
+% Fix hyperref formatting
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue,
+}
+
+\begin{document}
+
+% Header
+\begin{center}
+{\LARGE \textbf{William Bowley}} \\[4pt]
+{\large Project List} \\[2pt]
+\href{https://github.com/wgbowley}{github.com/wgbowley} \quad $\cdot$ \quad
+\href{https://linkedin.com/in/wgbowley}{linkedin.com/in/wgbowley/}
+\end{center}
+
+\section*{Projects}
+
+\begin{table}[h]
+  \centering
+  \renewcommand{\arraystretch}{1.5}
+  \begin{tabular}{>{\raggedright\arraybackslash}p{5.5cm} 
+                  >{\raggedright\arraybackslash}p{4cm}
+                  >{\raggedright\arraybackslash}p{3.5cm}}
+    \toprule
+    \textbf{Name} & \textbf{Date} & \textbf{Status} \\
+    \midrule
+    X-190 Electric VTOL & Jan 2023 --- Jun 2024 & Paused (Resources) \\
+    \href{https://github.com/wgbowley/CoilGun}{CoilGun} & Nov 2023 --- Jun 2024 & Complete \\
+    CoilGun H-Bridge Research & Dec 2024 --- Jan 2025 & Paused (until 2028) \\
+    \href{https://github.com/wgbowley/openLSM}{OpenLSM} & Aug 2025 --- Present & Active \\
+    \href{https://github.com/Bowley-Systems/PyFEA}{PyFEA} & Dec 2024 --- Present & Active \\
+    Computational Geometry & Sep 2025 --- Jan 2026 & Paused (Prereq) \\ 
+    \href{https://github.com/wgbowley/PicoUnits}{PicoUnits} & Jan 2026 --- Sep 2026 & Complete \\
+    \href{https://github.com/Bowley-Systems/UnitValues}{UnitValues} & Jan 2026 --- Aug 2026 & Complete \\
+    \href{https://github.com/rmit-wgbowley/Precharger}{Precharger Models} & May 2026 --- Jul 2026 & Complete \\ 
+    \href{https://github.com/rmit-wgbowley/Isopod}{IsoPod Project} & May 2026 --- Jun 2026 & Complete \\
+    \href{https://github.com/rmit-wgbowley/dyno-boards}{Dyno Boards} & Apr 2026 --- Sep 2026 & Complete \\
+    \href{https://github.com/rmit-wgbowley/LV-Isolated-DC-DC}{Isolated DC-DC Converter} & Jul 2026 --- Present & Active \\
+    \href{https://github.com/Ti-g/electro-actuator-sim}{Voice Coil Simulator} & Aug 2026 --- Aug 2026 & Complete \\
+    FEMMInterpreter & Aug 2026 --- Present & Active (Private) \\
+    PicoMaterials & Aug 2026 --- Present & Active (Private) \\
+    axibs & Aug 2026 --- Present & Active (Private) \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\end{document}
