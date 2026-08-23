@@ -15,7 +15,7 @@ am a member of the electric motorsport team.
 
 | Active Projects | Description |
 |:---|:---|
-| [OpenLSM](https://github.com/wgbowley/openLSM) | A low-cost tubular linear synchronous motor for Cartesian motion systems using custom FEM and ROM tooling. |
+| [OpenLSM](https://github.com/wgbowley/openLSM) | A low-cost tubular linear synchronous motor for Cartesian motion systems using custom modelling. |
 | [PyFEA](https://github.com/Bowley-Systems/PyFEA) | An intermediate representation system for multi-physics problems using solver adaptors. |
 | [PicoUnits](https://github.com/wgbowley/PicoUnits) | A runtime type system for numerical quantities. |
 | [LVG-APU](https://github.com/rmit-wgbowley/LV-Isolated-DC-DC) | A 600 V to 12 V, 300 W isolated DC/DC converter featuring an integrated standby/buffer battery. |
