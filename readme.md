@@ -16,7 +16,7 @@ am a member of the electric motorsport team.
 | Active Projects | Description |
 |:---|:---|
 | [OpenLSM](https://github.com/wgbowley/openLSM) | A low-cost tubular linear synchronous motor for Cartesian motion systems. |
-| [LVG-APU](https://github.com/rmit-wgbowley/LV-Isolated-DC-DC) | A 600 V to 12 V, 300 W isolated DC/DC converter featuring an integrated standby/buffer battery. |
+| [LVG-APU](https://github.com/rmit-wgbowley/APU) | A proposed low-voltage grounded APU for FSAE-A vehicles |
 
 ----
 
