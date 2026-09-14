@@ -4,9 +4,7 @@
   <em>OpenLSM Prototype Beta revision 2: Radial heat-sink design study (aluminum 6061, eddy current analysis)</em>
 </p>
 
-Computational systems engineer with a current focus on electromagnetic systems. Running `Bowley Systems` as an independent 
-computational toolmaker and systems research group. I study electrical engineering at RMIT University and 
-am a member of the electric motorsport team.
+Computational systems engineer with a current focus on electromagnetic systems. Running `Bowley Systems` as an independent computational toolmaker and systems research group.
 
 ---
 
