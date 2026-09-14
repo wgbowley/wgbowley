@@ -8,10 +8,7 @@ Computational systems engineer with a current focus on electromagnetic systems. 
 computational toolmaker and systems research group. I study electrical engineering at RMIT University and 
 am a member of the electric motorsport team.
 
-![Status](https://img.shields.io/badge/Focus-R%26D-white?style=flat-square&logo=react&logoColor=87CEEB)
-![Tools](https://img.shields.io/badge/Building-Core%20Frameworks-87CEEB?style=flat-square&logo=buildkite&logoColor=white)
-![EM](https://img.shields.io/badge/Physics-Electromagnetics-white?style=flat-square&logo=physics&logoColor=87CEEB)
-![Comp-Geo](https://img.shields.io/badge/Math-Computational%20Geometry-87CEEB?style=flat-square&logo=geometrie&logoColor=white)
+---
 
 | Active Projects | Description |
 |:---|:---|
@@ -22,6 +19,5 @@ am a member of the electric motorsport team.
 
 *For a full list of projects, see my [project list](02_project_list/projects.pdf).*<br> 
 *University projects: [rmit-wgbowley](https://github.com/rmit-wgbowley).*<br>
-*View my [technical resume](01_resume/technical_resume.pdf).*  
 
 ---
