@@ -6,8 +6,6 @@
 
 Computational systems engineer with a current focus on electromagnetic systems. Running `Bowley Systems` as an independent computational toolmaker and systems research group.
 
----
-
 | Active Projects | Description |
 |:---|:---|
 | [OpenLSM](https://github.com/wgbowley/openLSM) | A low-cost tubular linear synchronous motor for Cartesian motion systems. |
