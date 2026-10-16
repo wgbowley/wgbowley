@@ -7,7 +7,7 @@
 | Active Projects | Description |
 |:---|:---|
 | [OpenLSM](https://github.com/wgbowley/openLSM) | A low-cost tubular linear synchronous motor for Cartesian motion systems. |
-| [LVG-APU](https://github.com/rmit-wgbowley/APU) | A proposed low-voltage grounded APU for FSAE-A vehicles |
+| [APU](https://github.com/rmit-wgbowley/APU) | A proposed low-voltage grounded APU for FSAE-A vehicles |
 
 ----
 
