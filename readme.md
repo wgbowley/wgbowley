@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="00_media/prototype_beta_rev_2_side_view_cad.png" alt="OpenLSM Prototype Beta Rev 2 CAD render" style="max-width:800px;">
-  <br>
-  <em>OpenLSM Prototype Beta revision 2: Radial heat-sink design study (aluminum 6061, eddy current analysis)</em>
-</p>
-
 | Active Projects | Description |
 |:---|:---|
 | [OpenLSM](https://github.com/wgbowley/openLSM) | A low-cost tubular linear synchronous motor for Cartesian motion systems. |
