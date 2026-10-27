@@ -1,3 +1,6 @@
+# .gitignore
+
+# Ignore File Extensions
 *.fdb_latexmk
 *.fls
 *.aux

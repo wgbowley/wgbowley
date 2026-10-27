@@ -20,5 +20,6 @@
     "axibs",
     "Prereq",
     "FSAE",
+    "latexmk",
   ]
 }
